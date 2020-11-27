@@ -1,1 +1,2 @@
 My notes for hello world!
+User2 added a new note.
