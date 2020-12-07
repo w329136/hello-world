@@ -3,3 +3,5 @@ User2 added a new note.
 User2 added second note, which wasn't reviewed (from branch master).
 User 1 added a note.
 User2 added third note.
+-----------------
+line from User 1 (rebase)
