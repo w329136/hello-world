@@ -2,3 +2,4 @@ Created on branch add-feature1
 Added a new agreement.
 User1 reviewed the agreement.
 Critical bug fixed.
+New F1 feature
